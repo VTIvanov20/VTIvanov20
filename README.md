@@ -10,9 +10,9 @@
     I am currently mainly learning C++ along with HTML5 & CSS3, but I also spend time on other languages.🤹</p>
     <h3>Here's a few things about me:</h3>
     <ul>
-        <li>👨‍💻 I want to start learning Dart, Flutter and more of Docker</li>
-        <li>📚 I am a student in the 9th grade in <a href="https://github.com/codingburgas">@codingburgas</a>!</li>
-        <li>📧 Reach me here: VTIvanov20@codingburgas.bg</li>
+        <li>📚 I want to start learning Dart, Flutter and more of Docker.</li>
+        <li>👨‍💻 Currently working on notemanager with <a href="https://github.com/BozhidarBoyadzhiev">@Bozhidar Boyadzhiev</a>!</li>
+        <li>📧 Reach me here: <a href="mailto:email">VTIvanov20@codingburgas.bg </a></li>
         <li>⚡️ Fun Fact: People call me "Value" 🙃</li>
     </ul>
     <img align=right src="https://assets.materialup.com/uploads/3fb30856-aae4-40b6-b9a4-308bded3488b/preview.gif" height="300px", width="400px">
