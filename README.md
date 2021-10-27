@@ -36,5 +36,25 @@
       <a href="https://www.raspberrypi.org/"><img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="git" width="40" height="40"/></a>
       <a href="https://www.arduino.cc/"><img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="git" width="40" height="40"/></a>
     </p>
+     
+  <h3>What I've achieved:</h3>
+<details>	
+ 
+  <summary><b>📊 My Github stats</b></summary>
+
+![Grade](https://github-readme-stats.vercel.app/api?username=VTIvanov20&show_icons=true&theme=radical&count_private=true)
+
+ </details>     
+
+<details style = "display: inline;">
+ 
+<summary align-items:"inline";><b>🏆 My Credly Badges</b></summary>
+ <div>
+ <a href ="https://www.credly.com/badges/f5058dab-4315-4143-8f16-839d33e58464"><img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
+     
+<a href ="https://www.credly.com/earner/earned/badge/112e5822-f5e6-4e71-a91c-68d581fb5cd2"><img align="left" alt="Word" width="200px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
+ </div>
+</details> 
+
 </body>
 </html>
