@@ -13,7 +13,7 @@
         <li>👨‍💻 I want to start learning Dart, Flutter and more of Docker</li>
         <li>📚 I am a student in the 9th grade in <a href="https://github.com/codingburgas">@codingburgas</a>!</li>
         <li>📧 Reach me here: VTIvanov20@codingburgas.bg</li>
-        <li>⚡️ Fun Fact: I ❤️ tinkering, IoT and  working with microcontrollers!</li>
+        <li>⚡️ Fun Fact: People call me "Value" 🙃</li>
     </ul>
     <img align=right src="https://assets.materialup.com/uploads/3fb30856-aae4-40b6-b9a4-308bded3488b/preview.gif" height="300px", width="400px">
     <h3>Here are the languages that I know and use:</h3> 
