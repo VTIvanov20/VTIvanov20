@@ -7,12 +7,12 @@
     <h1>Hey, my name is <a href="https://github.com/VTIvanov20">Valeri Ivanov 👋</a></h1>
     <hr>
     <p>I study in <a href="https://github.com/codingburgas">@codingburgas</a>🎓 and this is my second year here! I love tinkering and opportunites where I can combine software👨‍💻 and hardware.👨‍🏭 As for software, I am interested in frontend development, but I have recently been lookig at backend projects too.🤔
-    I am currently mainly learning C++ along with HTML5 & CSS3, but I also spend time on other languages.🤹</p>
-    <h3>Here's a few things about me:</h3>
+    I am currently learning graphic C++ libraries, like SDL2, as well as HTML5 & CSS3, but I also spend time on other languages.🤹</p>
+    <h3>Here are a few things about me:</h3>
     <ul>
         <li>📚 I want to start learning Dart, Flutter and more of Docker.</li>
         <li>👨‍💻 Currently working on notemanager with <a href="https://github.com/BozhidarBoyadzhiev">@Bozhidar Boyadzhiev</a>!</li>
-        <li>📧 Reach me here: <a href="mailto:email">VTIvanov20@codingburgas.bg </a></li>
+        <li>📧 Reach me via email here: <a href="mailto:email">VTIvanov20@codingburgas.bg </a></li>
         <li>⚡️ Fun Fact: People call me "Value" 🙃</li>
     </ul>
     <img align=right src="https://assets.materialup.com/uploads/3fb30856-aae4-40b6-b9a4-308bded3488b/preview.gif" height="300px", width="400px">
