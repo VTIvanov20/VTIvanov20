@@ -15,6 +15,7 @@
         <li>📧 Reach me here: VTIvanov20@codingburgas.bg</li>
         <li>⚡️ Fun Fact: I ❤️ tinkering, IoT and  working with microcontrollers!</li>
     </ul>
+    <img align=right src="https://assets.materialup.com/uploads/3fb30856-aae4-40b6-b9a4-308bded3488b/preview.gif" height="300px", width="400px">
     <h3>Here are the languages that I know and use:</h3> 
     <p align="left"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
