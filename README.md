@@ -6,12 +6,12 @@
 <body>
     <h1>Hey, my name is <a href="https://github.com/VTIvanov20">Valeri Ivanov 👋</a></h1>
     <hr>
-    <p>I study in <a href="https://github.com/codingburgas">@codingburgas</a>🎓 and this is my second year here! I love tinkering and opportunites where I can combine software👨‍💻 and hardware.👨‍🏭 As for software, I am interested in frontend development, but I have recently been lookig at backend projects too.🤔
-    I am currently learning graphic C++ libraries, like SDL2, as well as HTML5 & CSS3, but I also spend time on other languages.🤹</p>
+    <p>I study in <a href="https://github.com/codingburgas">@codingburgas</a>🎓 and this is my second year here! I love tinkering and opportunites where I can combine software. and hardware. As for software, I am interested in frontend development, but I have recently been looking at backend projects as well.
+    I am currently polishing some stuff on my <a href="https://github.com/SMTashev20/geonomy">latest project</a> :D</p>
     <h3>Here are a few things about me:</h3>
     <ul>
         <li>📚 I want to start learning Dart, Flutter and more of Docker.</li>
-        <li>👨‍💻 Currently working on notemanager with <a href="https://github.com/BozhidarBoyadzhiev">@Bozhidar Boyadzhiev</a>!</li>
+        <li>👨‍💻 Currently polishing <a href="https://github.com/SMTashev20/geonomy">Geonomy</a> with <a href="https://github.com/AEManov20">@AEManov20</a>, <a href="https://github.com/SMTashev20">@SMTashev20</a> and <a href="https://github.com/MMPetrov20">@MMPetrov20</a>.</li>
         <li>📧 Reach me via email here: <a href="mailto:email">VTIvanov20@codingburgas.bg </a></li>
         <li>⚡️ Fun Fact: People call me "Value" 🙃</li>
     </ul>
