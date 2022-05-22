@@ -7,12 +7,12 @@
     <h1>Hey, my name is <a href="https://github.com/VTIvanov20">Valeri Ivanov 👋</a></h1>
     <hr>
     <p>I study in <a href="https://github.com/codingburgas">@codingburgas</a>🎓 and this is my second year here! I love tinkering and opportunites where I can combine software. and hardware. As for software, I am interested in frontend development, but I have recently been looking at backend projects as well.
-    I am currently polishing some stuff on my <a href="https://github.com/SMTashev20/geonomy">latest project</a> :D</p>
+    I am currently working on some designs for my portfolio :D</p>
     <h3>Here are a few things about me:</h3>
     <ul>
-        <li>📚 I want to start learning Dart, Flutter and more of Docker.</li>
-        <li>👨‍💻 Currently polishing <a href="https://github.com/SMTashev20/geonomy">Geonomy</a> with <a href="https://github.com/AEManov20">@AEManov20</a>, <a href="https://github.com/SMTashev20">@SMTashev20</a> and <a href="https://github.com/MMPetrov20">@MMPetrov20</a>.</li>
-        <li>📧 Reach me via email here: <a href="mailto:email">VTIvanov20@codingburgas.bg </a></li>
+        <li>📚 I want to start using more elements of the Adobe Creative Cloud.</li>
+        <li>👨‍💻 Currently expanding my design portfolio and debating whether to post them on Dribbble.</li>
+        <li>📧 Reach me via email here: <a href="mailto:email">VTIvanov20@codingburgas.bg </a> or through <a href="https://www.linkedin.com/in/valeri-ivanov-485730235/"> LinkedIn</a>.</li>
         <li>⚡️ Fun Fact: People call me "Value" 🙃</li>
     </ul>
     <img align=right src="https://assets.materialup.com/uploads/3fb30856-aae4-40b6-b9a4-308bded3488b/preview.gif" height="300px", width="400px">
