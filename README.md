@@ -28,9 +28,10 @@
     </p> 
     <h3>Here are the tools that I know and use:</h3> 
     <p align="left"> 
-      <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+      <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" alt="VS code logo" width=44px /></a>
+      <a href="https://visualstudio.microsoft.com/vs/"><img src="https://img.icons8.com/color/344/visual-studio--v2.png" alt="VS logo" width=44px /></a>
+      <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="38" height="38"/></a>
       <a href="https://www.adobe.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/></a>
-      <a href="https://code.visualstudio.com/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/></a>
     </p> 
     <h3>Here are some other things that I am interested in:</h3>
     <p>
