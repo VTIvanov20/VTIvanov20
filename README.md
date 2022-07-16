@@ -11,9 +11,9 @@
     <h3>Here are a few things about me:</h3>
     <ul>
         <li>📚 I want to start using more elements of the Adobe Creative Cloud.</li>
-        <li>👨‍💻 Currently expanding my design portfolio and debating whether to post them on Dribbble.</li>
+        <li>👨‍💻 Currently working on two projects. (frontend & design)</li>
         <li>📧 Reach me via email here: <a href="mailto:email">VTIvanov20@codingburgas.bg </a> or through <a href="https://www.linkedin.com/in/valeri-ivanov-485730235/"> LinkedIn</a>.</li>
-        <li>⚡️ Fun Fact: People call me "Value" 🙃</li>
+        <li>⚡️ Fun Fact: People call me "Value" :D</li>
     </ul>
     <img align=right src="https://assets.materialup.com/uploads/3fb30856-aae4-40b6-b9a4-308bded3488b/preview.gif" height="300px", width="400px">
     <h3>Here are the languages that I know and use:</h3> 
