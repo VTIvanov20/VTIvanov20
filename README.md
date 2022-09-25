@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="1200" src="https://cdn.discordapp.com/attachments/884052584762077245/1023636253452816524/banner.png">
+</p>
 <!--<!DOCTYPE html>
 <html lang="en">
 <head>
