@@ -2,7 +2,7 @@
  <img src="assets/hydrangeas.jpeg" width="350" align="left">
   <p float="left">
     <samp>
-      learning to be humble, learning to be grateful
+      24/7 <br>
       <br>
       <br>
       langs: ts, vue, react, c++, r, sql, k8s <br>
